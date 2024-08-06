@@ -1,7 +1,20 @@
-## Hi, I'm Troy Daniels 👋🏒⛷
+# Hi there, I'm Troy Daniels! 👋⛷️🏒
 
-Currently a student a Columbia University pursuing a Masters of Science in Computer Science with a focus on Machine Learning. I am also a Software Enginner as a Associate in the Operations, Technology, Data & Analytics Leadership Development Program at the Hartford. I have previously been employed as a Data Engineer and Solutions Architect (AWS). Furthermore, have conducted research in Computer Vision, NLP and Machine Learning threory. Aspiring to become a professional in the ML and AI world!
+### 🎓 About Me
+I'm currently pursuing a **Master of Science in Computer Science** at **Columbia University**, specializing in **Machine Learning**.
 
-### You can find me online at
-linkedin : https://www.linkedin.com/in/troydaniels19/
-Personal Website : http://www.troydanielsresume.com/
+### 💼 Professional Experience
+I work as a **Software Engineer (Associate)** in the **Operations, Technology, Data & Analytics Leadership Development Program** at **The Hartford**. My journey has also taken me through roles as a **Data Engineer** and **Solutions Architect (AWS)**.
+
+### 🔍 Research Interests
+I have conducted research in the following areas:
+- **Computer Vision**
+- **Natural Language Processing (NLP)**
+- **Machine Learning Theory**
+
+### 🚀 Future Aspirations
+I'm passionate about becoming a leader in the **Machine Learning** and **AI** fields!
+
+### 🌐 Connect with Me
+- **[LinkedIn](https://www.linkedin.com/in/troydaniels19/)**
+- **[Personal Website](http://www.troydanielsresume.com/)**
